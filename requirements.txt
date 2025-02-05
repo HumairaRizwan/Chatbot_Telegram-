@@ -1,0 +1,10 @@
+Prerequisites
+
+Before we begin, make sure you have the following:
+
+- A Google account to access Dialogflow
+- Python installed on your computer
+- PyCharm or any Python IDE
+- Ngrok to expose your local server to the internet
+- A Telegram bot (created using BotFather)
+- An API key from ExchangeRateAPI
