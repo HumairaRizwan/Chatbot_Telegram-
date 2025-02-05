@@ -1,1 +1,3 @@
-![architecture drawio (2)](https://github.com/user-attachments/assets/9f9fafde-1a79-4724-80a6-c5bd4ab5bd40)
+
+
+![image](https://github.com/user-attachments/assets/078426fb-83b3-44d0-9a51-a25dff196867)
